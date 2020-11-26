@@ -21,4 +21,3 @@ steps:
     Dockerfile: app/Dockerfile
     tags: |
       tag1
-      tag2
